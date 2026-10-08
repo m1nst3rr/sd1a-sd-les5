@@ -17,7 +17,7 @@ Lorem Ipsum
 1/2 lb ground meat (beef, chicken, turkey, pork, shrimp)
 1 Tablespoon avocado oil
 
-*Yaki Udon Noodle Sauce*
+#### Yaki Udon Noodle Sauce
 2, 1/2 Tablespoons dark soy sauce
 2 Tablespoons oyster sauce 
 1 Tablespoon mirin
